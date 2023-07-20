@@ -3,8 +3,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # OpenMusicAPI
-this project is my Submittion for Dicoding Back-End Fundamental Class.
 ---
+this project is my Submittion for Dicoding Back-End Fundamental Class.
+
 Don't forget to setup your .env file with # server configuration inside => <br />
 &emsp;  HOST= <br />
 &emsp;  PORT= <br />
@@ -26,3 +27,7 @@ After u done code the file / already have migrations file =>
 <br />
 pg migrate documentation = https://salsita.github.io/node-pg-migrate/#/
 <br />
+
+**Changelog**
+<br/>
+&emsp;v1 - Hapi Plugin, Data Validation, and Postgress database Implementation
